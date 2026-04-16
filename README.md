@@ -1,7 +1,4 @@
 # FinTrack — Finance Dashboard UI
-
-A dual theme modern finance dashboard UI, simulating financial health with a strong focus on UX, data usability, and role-aware interactions.
-
 ---
 
 ## Overview
